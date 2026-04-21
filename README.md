@@ -1,6 +1,6 @@
 # GitHub Workflow
 
-To improve is to change.
+There is nothing permanent, except change.
 You will also learn some best practices on how to collaborate with other
 developers on code using GitHub.
 
